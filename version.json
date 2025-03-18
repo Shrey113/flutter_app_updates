@@ -34,7 +34,7 @@
       "service_path": "device_finder.exe",
       "is_beta": true,
       "created_by": "Shrey113",
-      "app_version": "1.3",
+      "app_version": "1.4",
       "update_key": "Device_finder_V",
       "version_url": "https://github.com/Shrey113/flutter_app_updates/raw/main/releases/FTPApp.zip",
       "sub_components": [
