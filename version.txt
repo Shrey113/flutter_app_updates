@@ -1,0 +1,2 @@
+Main_app_V=1.2|https://github.com/user/flutter_app_updates/releases/download/v1.2/MainApp_1.2.zip
+FTP_app_V=1.5|https://github.com/user/flutter_app_updates/releases/download/v1.5/FTPApp_1.5.zip
