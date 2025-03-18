@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "FTPApp": {
+      "latest_version": "1.5",
+      "download_url": "https://github.com/Shrey113/flutter_app_updates/releases/download/v1.5/FTPApp_1.5.zip"
+    },
+    "MainApp": {
+      "latest_version": "1.2",
+      "download_url": "https://github.com/Shrey113/flutter_app_updates/releases/download/v1.2/MainApp_1.2.zip"
+    }
+  }
+}
