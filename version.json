@@ -7,7 +7,7 @@
       "service_path": "ftp_server_exe_path",
       "is_beta": false,
       "created_by": "Shrey113",
-      "app_version": "1.4",
+      "app_version": "1.5",
       "update_key": "FTP_app_V",
       "version_url": "https://github.com/Shrey113/flutter_app_updates/raw/main/releases/FTPApp.zip",
       "sub_components": [
