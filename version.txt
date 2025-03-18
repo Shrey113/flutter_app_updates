@@ -1,1 +1,1 @@
-FTP_app_V=1.5|https://github.com/Shrey113/flutter_app_updates/releases/download/v1.5/FTPApp_1.5.zip
+FTP_app_V=1.4|https://github.com/Shrey113/flutter_app_updates/releases/download/v1.5/FTPApp_1.5.zip
